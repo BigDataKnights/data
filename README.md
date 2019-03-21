@@ -1,7 +1,7 @@
 # data
 Wine review data
 
-How to uplod file over 50mb.
+How to upload file over 50mb.
 
 Follow these links:
 https://git-lfs.github.com/
